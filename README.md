@@ -12,11 +12,11 @@ This repository have been created since October, 2022 with intention to practise
   - Program: Jupyter Notebook<p>
 **List of files and folders:**
   - [Exploratory Data Analysis with Python ](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Pandas_codegym): This folder make use of 5 real datasets to work on Pandas, Numpy, Scipy, Sklearn to manupulate, analyse, visulize and conduct pre-processing steps data. 
-    + Online_Retailer
-    + Houseprice
-    + Shopee
-    + GDP 
-    + Credit_scoring
+    + [Online_Retailer](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Pandas_codegym/%5BEDA_Practice%5DPh%C3%A2n%20t%C3%ADch%20b%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u%20Online_retailer)
+    + [Houseprice](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Pandas_codegym/%5BEDA_Practice%5DPh%C3%A2n%20t%C3%ADch%20d%E1%BB%AF%20li%E1%BB%87u%20HousePrice)
+    + [Shopee](https://github.com/NguyenHien2711/Data_Analysis_Pythona/tree/main/Pandas_codegym/%5BEDA_Practice%5DB%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u%20Shopee)
+    + [GDP](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Pandas_codegym/%5BEDA_Practice%5DPh%C3%A2n%20t%C3%ADch%20tr%C3%AAn%20b%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u%20GDP)
+    + [Credit_scoring](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Pandas_codegym/Ti%E1%BB%81n%20x%E1%BB%AD%20l%C3%BD%20d%E1%BB%AF%20li%E1%BB%87u/X%E1%BB%AD%20l%C3%BD%20b%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u%20Credit_scoring)
   - [Data Visualization](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Matplot): Appling Seaborn and Matplotlib to visulize data
   - [Statistical Test ](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt%20th%E1%BB%91ng%20k%C3%AA): This folder take advantage of Sklearn, Scipy company with knowledge of Statistics including T-test, Z-Test, Chi test, Pearson Test, Spearman
   - [Machine Learning](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Machine%20learning): This folder has combined some exercises aim to pratice with bulding machine learning model.
