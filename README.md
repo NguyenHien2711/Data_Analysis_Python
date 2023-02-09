@@ -17,8 +17,8 @@ This repository have been created since October, 2022 with intention to practise
     + Shopee
     + GDP 
     + Credit_scoring
-  - [Data Visualization](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Matplot) : 
-  - [Statistical Test ](https://github.com/NguyenHien2711/Python_Fundamental/tree/main/Objec): This folder take advantage of Sklearn, Scipy company with knowledge of Statistics including T-test, Z-Test, Chi test, Pearson Test, Spearman
+  - [Data Visualization](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Matplot): Appling Seaborn and Matplotlib to visulize data
+  - [Statistical Test ](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt%20th%E1%BB%91ng%20k%C3%AA): This folder take advantage of Sklearn, Scipy company with knowledge of Statistics including T-test, Z-Test, Chi test, Pearson Test, Spearman
   - [Machine Learning](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Machine%20learning): This folder has combined some exercises aim to pratice with bulding machine learning model.
   - [Regression](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/H%E1%BB%93i%20quy): This folder has combined some exercises aim to pratice with bulding linear regression model.<p>
   
