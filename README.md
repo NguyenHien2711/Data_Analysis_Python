@@ -10,6 +10,7 @@ This repository have been created since October, 2022 with intention to practise
   - Matplotlib,Seaborn
   - Sklearn, Scipy
   - Program: Jupyter Notebook<p>
+    
 **List of files and folders:**
   - [Exploratory Data Analysis with Python ](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Pandas_codegym): This folder make use of 5 real datasets to work on Pandas, Numpy, Scipy, Sklearn to manupulate, analyse, visulize and conduct pre-processing steps data. 
     + [Online_Retailer](https://github.com/NguyenHien2711/Data_Analysis_Python/tree/main/Pandas_codegym/%5BEDA_Practice%5DPh%C3%A2n%20t%C3%ADch%20b%E1%BB%99%20d%E1%BB%AF%20li%E1%BB%87u%20Online_retailer)
